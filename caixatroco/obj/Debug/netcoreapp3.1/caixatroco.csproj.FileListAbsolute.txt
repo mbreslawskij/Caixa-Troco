@@ -1,0 +1,4 @@
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\caixatroco\caixatroco\obj\Debug\netcoreapp3.1\caixatroco.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\caixatroco\caixatroco\obj\Debug\netcoreapp3.1\caixatroco.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\caixatroco\caixatroco\obj\Debug\netcoreapp3.1\caixatroco.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\Core\caixatroco\caixatroco\caixatroco\obj\Debug\netcoreapp3.1\caixatroco.csproj.CoreCompileInputs.cache
